@@ -1,7 +1,6 @@
-Record=TopLevelDocument|FileName=Console.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Console.SchDoc|FileName=HV_Piezo_Driver.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Console.SchDoc|FileName=HV_Power_Supply.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Console.SchDoc|FileName=Interfaces.SchDoc|SheetNumber=7
+Record=TopLevelDocument|FileName=Console.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Console.SchDoc|FileName=HV_Piezo_Driver.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Console.SchDoc|FileName=Interfaces.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=Console.SchDoc|FileName=MCU_Control.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Console.SchDoc|FileName=Piezo_Feedback.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Console.SchDoc|FileName=Piezo_Feedback.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=Console.SchDoc|FileName=Power_Management.SchDoc|SheetNumber=2

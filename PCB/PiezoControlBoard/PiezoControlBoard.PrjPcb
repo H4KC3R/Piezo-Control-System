@@ -75,23 +75,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EBJBVWQW
 
 [Document3]
-DocumentPath=HV_Power_Supply.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZDFWFDSI
-
-[Document4]
 DocumentPath=PiezoControlBoard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCHAFAKJ
 
-[Document5]
+[Document4]
 DocumentPath=PiezoControlBoard.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHBKKTWK
 
-[Document6]
+[Document5]
 DocumentPath=..\Common_libs\board.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=..\Common_libs\connectors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=..\Common_libs\interfaces.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=..\Common_libs\load.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=..\Common_libs\mechanical.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=..\Common_libs\power.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=..\Common_libs\RF.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=HV_Piezo_Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HIMFAFTE
 
-[Document14]
+[Document13]
 DocumentPath=Piezo_Feedback.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDDVEBIH
 
-[Document15]
+[Document14]
 DocumentPath=Console.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JOYNTDQN
 
-[Document16]
+[Document15]
 DocumentPath=Interfaces.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
