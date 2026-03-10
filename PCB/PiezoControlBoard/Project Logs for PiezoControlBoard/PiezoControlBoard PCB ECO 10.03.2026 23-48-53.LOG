@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NetR17_2 Pin=VD8-A
+Added Pin To Net: NetName=NetC32_1 Pin=VD8-C
+Added Pin To Net: NetName=NetC32_1 Pin=VD9-A
+Added Pin To Net: NetName=NetR21_2 Pin=VD9-C
+Added Pin To Net: NetName=NetR26_2 Pin=VD11-A
+Added Pin To Net: NetName=NetC37_1 Pin=VD11-C
+Added Pin To Net: NetName=NetC37_1 Pin=VD12-A
+Added Pin To Net: NetName=NetR27_2 Pin=VD12-C
+Added Room: Name=Console
+Added Room: Name=HV_Piezo_Driver
+Added Room: Name=MCU_Control
+Added Room: Name=Piezo_Feedback
+Added Room: Name=Power_Management
