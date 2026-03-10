@@ -1,0 +1,40 @@
+Add Component: Footprint Not Found IND_SPRH127-101M
+Add Component: Footprint Not Found INDPM104104X480N
+Add Component: Footprint Not Found INDPM104104X480N
+Add Component: Footprint Not Found INDPM104104X480N
+Add Component: Footprint Not Found DO-214AC (SMA)
+Added Component: Designator=X5(DG30825402P1400AH)
+Add component (AddParameter): Name = "Curciut 1"; Value = "24ֲ...34ֲ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Curciut 2"; Value = "־בשטי"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "https://www.chipdip.ru/product/dg308-2.54-02p-14-00ah-308-021-14-klemmnik-vintovoy-degson-63066?from=visited_product"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin DD3-PAD
+Add Pin To Net: Unknown Pin: Pin DD4-PAD
+Add Pin To Net: Unknown Pin: Pin DD5-PAD
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin L4-2
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Add Pin To Net: Unknown Pin: Pin VD1-1
+Add Pin To Net: Unknown Pin: Pin VD1-2
+Add Pin To Net: Unknown Pin: Pin VD3-1
+Add Pin To Net: Unknown Pin: Pin VD3-2
+Add Pin To Net: Unknown Pin: Pin VD10-1
+Add Pin To Net: Unknown Pin: Pin VD10-2
+Add Pin To Net: Unknown Pin: Pin VD11-1
+Add Pin To Net: Unknown Pin: Pin VD11-2
+Add Pin To Net: Unknown Pin: Pin VD13-1
+Add Pin To Net: Unknown Pin: Pin VD13-2
+Add Pin To Net: Unknown Pin: Pin VD14-1
+Add Pin To Net: Unknown Pin: Pin VD14-2
+Added Pin To Net: NetName=pwr_in Pin=X5-1
+Added Pin To Net: NetName=GND Pin=X5-2
+Add Class Member: Failed to add class member : Component L2 SPRH127-101M
+Add Class Member: Failed to add class member : Component L3 100לךֳם
+Add Class Member: Failed to add class member : Component L4 100לךֳם
+Add Class Member: Failed to add class member : Component L5 100לךֳם
+Add Class Member: Failed to add class member : Component VD1 B340A-E3/61T
+Added Member To Class: ClassName=Power_Management Member=Component X5 DG308-2.54-02P

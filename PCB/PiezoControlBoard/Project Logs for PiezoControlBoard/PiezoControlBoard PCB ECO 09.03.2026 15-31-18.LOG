@@ -1,0 +1,226 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=+3.3V Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=RCC_OSC_IN Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=RCC_OSC_OUT Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=MCU_RESET Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=VCAP_2 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=VCAP_1 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=D2-4
+Removed Pin From Net: NetName=+3.3V Pin=D2-8
+Removed Pin From Net: NetName=GND Pin=D2-PAD
+Removed Pin From Net: NetName=RCC_OSC_IN Pin=DD1-12
+Removed Pin From Net: NetName=RCC_OSC_OUT Pin=DD1-13
+Removed Pin From Net: NetName=MCU_RESET Pin=DD1-14
+Removed Pin From Net: NetName=VCAP_1 Pin=DD1-49
+Removed Pin From Net: NetName=VCAP_2 Pin=DD1-73
+Removed Pin From Net: NetName=STM_BOOT0 Pin=DD1-94
+Removed Pin From Net: NetName=+3.3V Pin=R2-2
+Removed Pin From Net: NetName=+3.3V Pin=R3-2
+Removed Pin From Net: NetName=MCU_RESET Pin=R4-1
+Removed Pin From Net: NetName=+3.3V Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=STM_BOOT0 Pin=R5-2
+Removed Pin From Net: NetName=RCC_OSC_IN Pin=Z1-1
+Removed Pin From Net: NetName=GND Pin=Z1-2
+Removed Pin From Net: NetName=RCC_OSC_OUT Pin=Z1-3
+Removed Pin From Net: NetName=GND Pin=Z1-4
+Removed Member From Class: ClassName=MCU_Control Member=C3
+Removed Member From Class: ClassName=MCU_Control Member=C4
+Removed Member From Class: ClassName=MCU_Control Member=C5
+Removed Member From Class: ClassName=MCU_Control Member=C6
+Removed Member From Class: ClassName=MCU_Control Member=C7
+Removed Member From Class: ClassName=MCU_Control Member=C8
+Removed Member From Class: ClassName=MCU_Control Member=R2
+Removed Member From Class: ClassName=MCU_Control Member=R3
+Removed Member From Class: ClassName=MCU_Control Member=R4
+Removed Member From Class: ClassName=MCU_Control Member=R5
+Removed Member From Class: ClassName=MCU_Control Member=Z1
+Added Component: Designator=C?(CAP-0402)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1535C1H100JDD5D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "https://www.chipdip.ru/product/grm1535c1h100j"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 ïÔ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 Â"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-0603)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61E225KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "https://www.chipdip.ru/product/grm188r61e225ka12d-murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2 ìêÔ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 Â"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-0603)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61E225KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "https://www.chipdip.ru/product/grm188r61e225ka12d-murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2 ìêÔ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 Â"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-0603)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R61E225KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "https://www.chipdip.ru/product/grm188r61e225ka12d-murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2 ìêÔ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 Â"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-0402)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1535C1H100JDD5D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "https://www.chipdip.ru/product/grm1535c1h100j"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 ïÔ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 Â"; VariantName = "[No Variations]"
+Added Component: Designator=DD?(LQFP-100)
+Add component (AddParameter): Name = "Address Bus Width"; Value = "32b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "LQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Frequency"; Value = "168MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/14132/stm32f407vgt6-tds-eng-14132567.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/14132/stm32f407vgt6-tds-eng-14132567.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/4842/dm00037051-492832-4842280.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/4842/dm00037051-492832-4842280.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/48687/001075599-da-01-en-mcu-32bt-1mb-stm32f407vgt6-lqfp-100-stm-48687547.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/48687/001075599-da-01-en-mcu-32bt-1mb-stm32f407vgt6-lqfp-100-stm-48687547.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Architecture"; Value = "ARM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Bus Width"; Value = "32b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "168MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C,SPI,USB,CAN,Ethernet,IrDA,UART,USART,LIN,EBI/EMI,I2S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "14.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "STM32F407VGT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Format"; Value = "FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "1024KB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "1.7uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of A/D Converters"; Value = "3NUMBER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of ADC Channels"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "16NUMBER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of D/A Converters"; Value = "2NUMBER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ethernet Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I2C Channels"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I/Os"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Programmable I/O"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PWM Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of SPI Channels"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of UART Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of USB Channels"; Value = "1NUMBER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Oscillator Type"; Value = "Internal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peripherals"; Value = "Brown-out Detect/Reset,POR,PWM,WDT,DMA,LCD,I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=10,95, 10=10,07, 25=9,66, 100=8,5, 250=8,28 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM Size"; Value = "196KB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "STM32 F4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "813"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "https://www.chipdip.ru/product/stm32f407vgt6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "7468226"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Watchdog Timer"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "14.2mm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found IND_SPRH127-101M
+Add Component: Footprint Not Found INDPM104104X480N
+Add Component: Footprint Not Found INDPM104104X480N
+Add Component: Footprint Not Found INDPM104104X480N
+Added Component: Designator=R?(RES-0402)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402JR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.062 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "https://www.chipdip.ru/product/0.062w-0402-4.7-kom-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7 êÎì"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-0402)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.062 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "https://www.chipdip.ru/product/0.062w-0402-0-om-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Îì"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DO-214AC (SMA)
+Added Component: Designator=Z?(ABM11)
+Add component (AddParameter): Name = "Category"; Value = "Crystals and Oscillators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com/ABM11-25.000MHZ-D2X-T-Abracon-datasheet-12518431.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com/ABM11-25.000MHZ-D2X-T-Abracon-datasheet-12518431.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ABM11-25.000MHZ-D2X-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "259=0,3855, 500=0,3667, 1000=0,363, 2000=0,3516, 5000=0,3277 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "4570"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "https://www.chipdip.ru/product0/8009921874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "ABM11-25.000MHZ-D2X-T"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=MCU_RESET Pin=C?-2
+Added Pin To Net: NetName=RCC_OSC_IN Pin=C?-2
+Added Pin To Net: NetName=RCC_OSC_OUT Pin=C?-2
+Added Pin To Net: NetName=VCAP_1 Pin=C?-2
+Added Pin To Net: NetName=VCAP_2 Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin DD3-PAD
+Add Pin To Net: Unknown Pin: Pin DD4-PAD
+Add Pin To Net: Unknown Pin: Pin DD5-PAD
+Added Pin To Net: NetName=RCC_OSC_IN Pin=DD?-12
+Added Pin To Net: NetName=RCC_OSC_OUT Pin=DD?-13
+Added Pin To Net: NetName=MCU_RESET Pin=DD?-14
+Added Pin To Net: NetName=VCAP_1 Pin=DD?-49
+Added Pin To Net: NetName=VCAP_2 Pin=DD?-73
+Added Pin To Net: NetName=STM_BOOT0 Pin=DD?-94
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin L4-2
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=MCU_RESET Pin=R?-1
+Added Pin To Net: NetName=+3.3V Pin=R?-2
+Added Pin To Net: NetName=STM_BOOT0 Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin VD1-1
+Add Pin To Net: Unknown Pin: Pin VD1-2
+Add Pin To Net: Unknown Pin: Pin VD3-1
+Add Pin To Net: Unknown Pin: Pin VD3-2
+Add Pin To Net: Unknown Pin: Pin VD10-1
+Add Pin To Net: Unknown Pin: Pin VD10-2
+Add Pin To Net: Unknown Pin: Pin VD11-1
+Add Pin To Net: Unknown Pin: Pin VD11-2
+Add Pin To Net: Unknown Pin: Pin VD13-1
+Add Pin To Net: Unknown Pin: Pin VD13-2
+Add Pin To Net: Unknown Pin: Pin VD14-1
+Add Pin To Net: Unknown Pin: Pin VD14-2
+Add Pin To Net: Unknown Pin: Pin X5-1
+Add Pin To Net: Unknown Pin: Pin X5-2
+Added Pin To Net: NetName=RCC_OSC_IN Pin=Z?-1
+Added Pin To Net: NetName=GND Pin=Z?-2
+Added Pin To Net: NetName=RCC_OSC_OUT Pin=Z?-3
+Added Pin To Net: NetName=GND Pin=Z?-4
+Added Member To Class: ClassName=MCU_Control Member=Component C? CAP-10 ïÔ-5%-50 Â-NP0-0402
+Added Member To Class: ClassName=MCU_Control Member=Component C? CAP-2.2 ìêÔ-10%-25 Â-X5R-0603
+Added Member To Class: ClassName=MCU_Control Member=Component C? CAP-2.2 ìêÔ-10%-25 Â-X5R-0603
+Added Member To Class: ClassName=MCU_Control Member=Component C? CAP-2.2 ìêÔ-10%-25 Â-X5R-0603
+Added Member To Class: ClassName=MCU_Control Member=Component C? CAP-10 ïÔ-5%-50 Â-NP0-0402
+Added Member To Class: ClassName=MCU_Control Member=Component DD? STM32F407VGT6
+Add Class Member: Failed to add class member : Component L2 SPRH127-101M
+Add Class Member: Failed to add class member : Component L3 100ìêÃí
+Add Class Member: Failed to add class member : Component L4 100ìêÃí
+Add Class Member: Failed to add class member : Component L5 100ìêÃí
+Added Member To Class: ClassName=MCU_Control Member=Component R? RES-4.7 êÎì-5%-0.062 Âò-0402
+Added Member To Class: ClassName=MCU_Control Member=Component R? RES-0 Îì-5%-0.062 Âò-0402
+Add Class Member: Failed to add class member : Component VD1 B340A-E3/61T
+Add Class Member: Failed to add class member : Component X5 DG308-2.54-02P
+Added Member To Class: ClassName=MCU_Control Member=Component Z? ABM11-25.000MHZ-D2X-T

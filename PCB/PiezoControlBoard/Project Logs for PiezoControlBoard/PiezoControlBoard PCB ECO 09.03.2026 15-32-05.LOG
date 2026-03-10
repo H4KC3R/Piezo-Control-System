@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=RCC_OSC_IN Pin=DD?-12
+Removed Pin From Net: NetName=RCC_OSC_OUT Pin=DD?-13
+Removed Pin From Net: NetName=MCU_RESET Pin=DD?-14
+Removed Pin From Net: NetName=VCAP_1 Pin=DD?-49
+Removed Pin From Net: NetName=VCAP_2 Pin=DD?-73
+Removed Pin From Net: NetName=STM_BOOT0 Pin=DD?-94
+Removed Member From Class: ClassName=MCU_Control Member=DD?
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=Z? NewDesignator=Z1
+Add Component: Footprint Not Found IND_SPRH127-101M
+Add Component: Footprint Not Found INDPM104104X480N
+Add Component: Footprint Not Found INDPM104104X480N
+Add Component: Footprint Not Found INDPM104104X480N
+Add Component: Footprint Not Found DO-214AC (SMA)
+Added Pin To Net: NetName=RCC_OSC_IN Pin=DD1-12
+Added Pin To Net: NetName=RCC_OSC_OUT Pin=DD1-13
+Added Pin To Net: NetName=MCU_RESET Pin=DD1-14
+Added Pin To Net: NetName=VCAP_1 Pin=DD1-49
+Added Pin To Net: NetName=VCAP_2 Pin=DD1-73
+Added Pin To Net: NetName=STM_BOOT0 Pin=DD1-94
+Add Pin To Net: Unknown Pin: Pin DD3-PAD
+Add Pin To Net: Unknown Pin: Pin DD4-PAD
+Add Pin To Net: Unknown Pin: Pin DD5-PAD
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin L4-2
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Add Pin To Net: Unknown Pin: Pin VD1-1
+Add Pin To Net: Unknown Pin: Pin VD1-2
+Add Pin To Net: Unknown Pin: Pin VD3-1
+Add Pin To Net: Unknown Pin: Pin VD3-2
+Add Pin To Net: Unknown Pin: Pin VD10-1
+Add Pin To Net: Unknown Pin: Pin VD10-2
+Add Pin To Net: Unknown Pin: Pin VD11-1
+Add Pin To Net: Unknown Pin: Pin VD11-2
+Add Pin To Net: Unknown Pin: Pin VD13-1
+Add Pin To Net: Unknown Pin: Pin VD13-2
+Add Pin To Net: Unknown Pin: Pin VD14-1
+Add Pin To Net: Unknown Pin: Pin VD14-2
+Add Pin To Net: Unknown Pin: Pin X5-1
+Add Pin To Net: Unknown Pin: Pin X5-2
+Added Member To Class: ClassName=MCU_Control Member=Component C3 CAP-10 Ô‘-5%-50 ¬-NP0-0402
+Added Member To Class: ClassName=MCU_Control Member=Component C4 CAP-10 Ô‘-5%-50 ¬-NP0-0402
+Added Member To Class: ClassName=MCU_Control Member=Component C5 CAP-2.2 ÏÍ‘-10%-25 ¬-X5R-0603
+Added Member To Class: ClassName=MCU_Control Member=Component C7 CAP-2.2 ÏÍ‘-10%-25 ¬-X5R-0603
+Add Class Member: Failed to add class member : Component L2 SPRH127-101M
+Add Class Member: Failed to add class member : Component L3 100ÏÍ√Ì
+Add Class Member: Failed to add class member : Component L4 100ÏÍ√Ì
+Add Class Member: Failed to add class member : Component L5 100ÏÍ√Ì
+Added Member To Class: ClassName=MCU_Control Member=Component R2 RES-4.7 ÍŒÏ-5%-0.062 ¬Ú-0402
+Add Class Member: Failed to add class member : Component VD1 B340A-E3/61T
+Add Class Member: Failed to add class member : Component X5 DG308-2.54-02P
