@@ -1,0 +1,14 @@
+Add Pin To Net: Unknown Pin: Pin DD3-PAD
+Add Pin To Net: Unknown Pin: Pin DD5-PAD
+Added Pin To Net: NetName=GND Pin=VD3-A
+Add Pin To Net: Unknown Pin: Pin VD3-C
+Add Pin To Net: Unknown Pin: Pin VD10-1
+Add Pin To Net: Unknown Pin: Pin VD10-2
+Add Pin To Net: Unknown Pin: Pin VD11-1
+Add Pin To Net: Unknown Pin: Pin VD11-2
+Add Pin To Net: Unknown Pin: Pin VD13-1
+Add Pin To Net: Unknown Pin: Pin VD13-2
+Add Pin To Net: Unknown Pin: Pin VD14-1
+Add Pin To Net: Unknown Pin: Pin VD14-2
+Added Room: Name=MCU_Control
+Added Room: Name=Power_Management

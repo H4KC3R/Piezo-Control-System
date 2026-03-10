@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=CAN_SHTDN Pin=DD1-1
+Added Pin To Net: NetName=CAN_RXONLY Pin=DD1-2
+Add Pin To Net: Unknown Pin: Pin VD8-1
+Add Pin To Net: Unknown Pin: Pin VD8-2
+Add Pin To Net: Unknown Pin: Pin VD9-1
+Add Pin To Net: Unknown Pin: Pin VD9-2
+Add Pin To Net: Unknown Pin: Pin VD11-1
+Add Pin To Net: Unknown Pin: Pin VD11-2
+Add Pin To Net: Unknown Pin: Pin VD12-1
+Add Pin To Net: Unknown Pin: Pin VD12-2
