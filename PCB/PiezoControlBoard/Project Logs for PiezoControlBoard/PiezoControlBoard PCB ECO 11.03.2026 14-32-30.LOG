@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=MH2 Old Footprint=M2 New Footprint=M3
+Change Component Comment : Designator=MH2 Old Comment=M2 New Comment=M3
+Added Component: Designator=MH3(M3)
+Added Component: Designator=MH4(M3)
+Added Member To Class: ClassName=Power_Management Member=Component MH3 M3
+Added Member To Class: ClassName=Power_Management Member=Component MH4 M3
