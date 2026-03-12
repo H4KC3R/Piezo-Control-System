@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+12V Pin=X8-1
+Removed Pin From Net: NetName=GND Pin=X8-3
+Change component parameters: Designator = "X8" ("X8"); Footprint = "DG30825403P1400AH"; UniqueID = "\VRJMOBFG" ("\VRJMOBFG")
+Change component parameters (AddParameter): Name = "Curciut 1"; Value = "Îáùèé"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Curciut 2"; Value = "Ï×Ä Âõîä"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Curciut 3"; Value = "+12Â"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "https://www.chipdip.ru/product/308-031-14-dg308-2.54-03p-klemmnik-vintovoy-xinya-xinlaiya-10706"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X8-1
+Added Pin To Net: NetName=+12V Pin=X8-3
