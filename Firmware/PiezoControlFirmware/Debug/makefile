@@ -49,34 +49,34 @@ $(wildcard ../makefile.init) \
 $(wildcard ../makefile.targets) \
 
 
-BUILD_ARTIFACT_NAME := PiezoControlFw
+BUILD_ARTIFACT_NAME := PiezoControlFirmware
 BUILD_ARTIFACT_EXTENSION := elf
 BUILD_ARTIFACT_PREFIX :=
 BUILD_ARTIFACT := $(BUILD_ARTIFACT_PREFIX)$(BUILD_ARTIFACT_NAME)$(if $(BUILD_ARTIFACT_EXTENSION),.$(BUILD_ARTIFACT_EXTENSION),)
 
 # Add inputs and outputs from these tool invocations to the build variables 
 EXECUTABLES += \
-PiezoControlFw.elf \
+PiezoControlFirmware.elf \
 
 MAP_FILES += \
-PiezoControlFw.map \
+PiezoControlFirmware.map \
 
 SIZE_OUTPUT += \
 default.size.stdout \
 
 OBJDUMP_LIST += \
-PiezoControlFw.list \
+PiezoControlFirmware.list \
 
 
 # All Target
 all: main-build
 
 # Main-build Target
-main-build: PiezoControlFw.elf secondary-outputs
+main-build: PiezoControlFirmware.elf secondary-outputs
 
 # Tool invocations
-PiezoControlFw.elf PiezoControlFw.map: $(OBJS) $(USER_OBJS) C:\Users\Lenovo\Documents\GitHub\Piezo-Control-System\Firmware\PiezoControlFw\STM32F407VGTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-g++ -o "PiezoControlFw.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\Lenovo\Documents\GitHub\Piezo-Control-System\Firmware\PiezoControlFw\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="PiezoControlFw.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+PiezoControlFirmware.elf PiezoControlFirmware.map: $(OBJS) $(USER_OBJS) C:\Users\Lenovo\Documents\GitHub\Piezo-Control-System\Firmware\PiezoControlFirmware\STM32F407VGTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-g++ -o "PiezoControlFirmware.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\Lenovo\Documents\GitHub\Piezo-Control-System\Firmware\PiezoControlFirmware\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="PiezoControlFirmware.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
@@ -85,14 +85,14 @@ default.size.stdout: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
 	@echo 'Finished building: $@'
 	@echo ' '
 
-PiezoControlFw.list: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-objdump -h -S $(EXECUTABLES) > "PiezoControlFw.list"
+PiezoControlFirmware.list: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-objdump -h -S $(EXECUTABLES) > "PiezoControlFirmware.list"
 	@echo 'Finished building: $@'
 	@echo ' '
 
 # Other Targets
 clean:
-	-$(RM) PiezoControlFw.elf PiezoControlFw.list PiezoControlFw.map default.size.stdout
+	-$(RM) PiezoControlFirmware.elf PiezoControlFirmware.list PiezoControlFirmware.map default.size.stdout
 	-@echo ' '
 
 secondary-outputs: $(SIZE_OUTPUT) $(OBJDUMP_LIST)

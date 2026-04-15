@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PiezoControlFirmware/PiezoControlFw.ioc&apos; to &apos;PiezoControlFirmware.ioc&apos;" description="Rename resource &apos;PiezoControlFw.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="PiezoControlFw.ioc" name="PiezoControlFirmware.ioc" stamp="1776267011602" updateReferences="true"/>
+</session>

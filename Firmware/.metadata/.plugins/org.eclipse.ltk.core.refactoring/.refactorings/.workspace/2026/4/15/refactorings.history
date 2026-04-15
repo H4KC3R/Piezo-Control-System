@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;PiezoControlFw&apos;" deleteContents="false" description="Delete resource &apos;PiezoControlFw&apos;" element1="/PiezoControlFw" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1775478064969"/>
+</session>

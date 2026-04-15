@@ -59,7 +59,6 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
-#define SAMPLE_RANGE 1000
 #define CAN_SHTDN_Pin GPIO_PIN_2
 #define CAN_SHTDN_GPIO_Port GPIOE
 #define CAN_RXONLY_Pin GPIO_PIN_3
