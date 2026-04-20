@@ -1,0 +1,10 @@
+19:14:30 **** Incremental Build of configuration Debug for project PiezoBoardTest ****
+make -j12 all 
+arm-none-eabi-size   PiezoBoardTest.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9028	     20	   1644	  10692	   29c4	PiezoBoardTest.elf
+Finished building: default.size.stdout
+ 
+
+19:14:31 Build Finished. 0 errors, 0 warnings. (took 196ms)
+

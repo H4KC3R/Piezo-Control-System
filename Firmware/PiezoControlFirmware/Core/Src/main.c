@@ -109,9 +109,10 @@ int main(void)
   MX_TIM1_Init();
   MX_USART3_UART_Init();
   /* USER CODE BEGIN 2 */
-  HAL_GPIO_WritePin(GPIOE, AMP_EN_Pin, GPIO_PIN_RESET);
-  HAL_TIM_PWM_Start_DMA(&htim1, TIM_CHANNEL_2, (uint32_t*)TrajSine1000, NS);
-  HAL_TIM_PWM_Start_DMA(&htim1, TIM_CHANNEL_3, (uint32_t*)TrajCosine1000, NS);
+  HAL_GPIO_WritePin(GPIOE, AMP_EN_Pin, GPIO_PIN_SET);
+
+  //HAL_TIM_PWM_Start_DMA(&htim1, TIM_CHANNEL_2, (uint32_t*)TrajSine1000, NS);
+  //HAL_TIM_PWM_Start_DMA(&htim1, TIM_CHANNEL_3, (uint32_t*)TrajCosine1000, NS);
   /* USER CODE END 2 */
 
   /* Infinite loop */
