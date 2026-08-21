@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:55:18 On 22.05.2026
+
+Output: Плата управления.ПЭ3
+Type  : GOSTBOM
+From  : Variant [[No Variations]] of Project [PiezoControlBoard.PrjPcb]
+   Generated File[PiezoControlBoard_ПЭ3.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:55:25 On 22.05.2026
