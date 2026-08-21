@@ -10571,3 +10571,7 @@
 2026-04-22 09:57:34,237 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
 2026-04-22 09:57:34,241 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
 2026-04-22 09:57:34,242 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2026-05-27 17:29:43,551 [INFO] Activator:177 - 
+
+
+2026-05-27 17:29:43,553 [INFO] Activator:178 - !SESSION log4j initialized
